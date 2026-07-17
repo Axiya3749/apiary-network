@@ -88,3 +88,4 @@ uvicorn apiary_network.app.fast_api_app:api --reload
   instructions (Gemini is natively multimodal) but the notebook demo is
   text-only since no real hive photos are available in this environment --
   worth demonstrating live with an actual photo in the submission video.
+
